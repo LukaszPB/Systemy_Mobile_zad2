@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">PRAWDA</string>
+    <string name="button_false">FAŁSZ</string>
+    <string name="button_next">NASTĘPNE</string>
+    <string name="question1">2+2=5</string>
+    <string name="question2">2+2=4</string>
+    <string name="question3">3+3=1</string>
+    <string name="question4">3+3=3</string>
+    <string name="question5">3+3=6</string>
+    <string name="correctAnswer">Poprawna odpowiedź</string>
+    <string name="wrongAnswer">Błędna opowiedź</string>
+    <string name="hint">Czy na pewno chcesz zobaczyć odpowiedź</string>
+    <string name="answer">Pokaż odpowiedź</string>
+    <string name="podpowiedz">Podpowiedź</string>
+    <string name="answer_was_shown">Odpowidź była już wyświetlona!</string>
+</resources>
